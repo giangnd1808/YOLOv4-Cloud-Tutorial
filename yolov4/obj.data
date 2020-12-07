@@ -2,4 +2,4 @@ classes = 2
 train = data/train.txt
 valid = data/test.txt
 names = data/obj.names
-backup = /mydriver/yolov4/backup
+backup = /mydriver/tiny-yolov4/backup
